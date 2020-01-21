@@ -1,3 +1,21 @@
+GIF Search
+
+Created a Gif search application; user has access to the latest GIFs. Also can explore Gifs of your own by simply writing into the search box.
+
+
+![gif2](https://user-images.githubusercontent.com/25596786/72771189-f5ab0780-3bb4-11ea-9b4c-feec736a9889.gif)
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
